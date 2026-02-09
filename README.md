@@ -9,7 +9,9 @@
 ---
 
 ## 1. Introduction
+
 The goal of this project is to encourage users to adopt a more physically active lifestyle through fitness-focused games enhanced with **biofeedback**. 
+
 ---
 
 ## 2. Hardware & Platform
@@ -149,10 +151,6 @@ public void OnMessageArrived(string msg)
 - **Sensors**: Buttons, accelerometer (optional), heart rate monitor (optional)
 
 ---
-
-## Contributors
-
-This project was developed as part of Interactive Media coursework at NYU Abu Dhabi.
 
 ## Contributors
 
